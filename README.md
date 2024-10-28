@@ -1,7 +1,8 @@
 # Learning ansible with hands on projects
 
 #### Here are 20 intermediate-to-advanced Ansible project ideas, each designed to boost your skills with practical applications and hands-on configuration management
-
+useful links : 
+                  - https://www.yamllint.com/ : validate your yaml files
 ## 1. Automated LAMP Stack Deployment
 Objective: Automate the deployment of a LAMP (Linux, Apache, MySQL, PHP) stack on multiple servers.
 Steps:
